@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fazalrai
 - 👀 I’m interested in a role Javascript developer
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ... on ReactJS
+- 💞️ I’m looking to collaborate on ... on ReactJS projects
+- 💞️ I’m looking to collaborate on ... on NodeJS Open source porjects
+- 💞️ I’m looking to collaborate on ... on NodeJS projects
 - 📫 You can each me via my email id "fazal.rai456@gmail.com"
 
 <!---
